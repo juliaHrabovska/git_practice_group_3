@@ -7,10 +7,8 @@ Test
 - This is the mechanism for changing a particular file
 
 2. What is the difference between master and origin master
-- It's just two different names for the same thread.
 - master belongs to the local repository and origin master belongs to the remote
-- These are two different branches of the local repository
-- branch origin master does not exist
+
 
 3. What is the difference between "git push" and "git pull" commands?
 - The "git pull" command is needed to pull changes from a remote repository, and the "git push" command is needed to push changes to a remote repository
