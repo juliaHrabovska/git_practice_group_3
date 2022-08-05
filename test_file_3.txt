@@ -9,6 +9,7 @@ Test
 2. What is the difference between master and origin master
 - master belongs to the local repository and origin master belongs to the remote
 
+
 3. What is the difference between "git push" and "git pull" commands?
 - These are aliases
 - The "git pull" command does not exist, but the "git push" command is needed to push the changes to the remote repository
